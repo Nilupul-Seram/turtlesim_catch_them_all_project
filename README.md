@@ -36,7 +36,7 @@ source install/setup.bash
 5. Launch the simulation.
 
 ```bash
-ros2 launch my_robot_bringup turtlesim_catch_them_all.launch.py
+ros2 launch my_robot_bringup catch_them_all.launch.xml
 ```
 
 🛠️ VS Code IntelliSense Configuration (C++)
