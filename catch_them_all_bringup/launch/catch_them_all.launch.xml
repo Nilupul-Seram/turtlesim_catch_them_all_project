@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="turtlesim" exec="turtlesim_node" />
+  <node pkg="catch_them_all_project" exec="turtle_spawner" />
+  <node pkg="catch_them_all_project" exec="main_turtle_controller" />
+</launch>

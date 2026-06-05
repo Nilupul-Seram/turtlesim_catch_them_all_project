@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# C++ compiled files (just in case)
+*.o
+*.so
+
+# IDE configurations
+.vscode/
+.idea/
+
+# ROS2 workspace artifacts (if accidentally created here)
+build/
+install/
+log/
